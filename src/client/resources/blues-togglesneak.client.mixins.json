@@ -3,7 +3,7 @@
 	"package": "me.blueishberry.togglesneak.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"KeyboardInputMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
